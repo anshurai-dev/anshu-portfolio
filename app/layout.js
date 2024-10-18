@@ -1,4 +1,4 @@
-import localFont from "next/font/local";
+import{ Inter, Bebas_Neue } from "next/font/google";
 import "./globals.css";
 
 const geistSans = localFont({
