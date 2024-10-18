@@ -10,8 +10,12 @@ module.exports = {
       colors: {
        colors: {
         primary: "#10151f",
-        sec
-       }
+        secondary: "#475467",
+        accent: {
+          DEFAULT: "#7edad2",
+          hover: "#79d3cc",
+        },
+       },
       },
     },
   },
